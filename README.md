@@ -2,5 +2,5 @@
 # BI-Project
 # hadar kabel
 # gal ezra
-#jonathan vaknin
-#sher hasson
+# jonathan vaknin
+# sher hasson
